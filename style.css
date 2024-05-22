@@ -12,3 +12,10 @@ body{
     margin: 0;
     padding: 0;
 }
+.conteudo-principal{
+    background-image:url("./img/Netflix");
+    background-repeat:no-repeat;
+}
+.conyeiner{
+    height: 100vh;
+}
