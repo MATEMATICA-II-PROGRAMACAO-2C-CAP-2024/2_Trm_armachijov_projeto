@@ -15,7 +15,13 @@ body{
 .conteudo-principal{
     background-image:url("./img/Print-Netflix-logo-marca.jpg");
     background-repeat:no-repeat;
+    background-size:cover;
+}
+.imagem-principal{
+    width: 120px;
 }
 .conyeiner{
     height: 100vh;
+    display:grid;
+    grid-template-columns:50% 50%;
 }
