@@ -39,11 +39,14 @@ body{
     padding: 1em;
     color: var(--branco-principal);
     display: block;
+    text-decoration: none;
 }
 .botao__secundario{
     font-family: 'Montserrat', sans-serif;
     background-color: transparent;
     border: 2px solid var(--branco-principal);
+    display: block;
+    text-decoration: none;
 }
 
 .container__aviso{
