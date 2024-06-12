@@ -8,7 +8,6 @@
 }
 body{
    background-color: var(--cor-de-fundo);
-   background: linear-gradient(to right 0, 0, 0, 0.35);
    color: var(--branco-principal);
    font-family: var(--font-principal);
    font-size: 16px;
@@ -19,11 +18,11 @@ body{
     padding: 0;
 }
 .conteudo-principal{
-    background-image:url("./img/Print-Netflix-logo-marca.jpg") ( x = 0, y = 120);
+    background-image:url("./img/Print-Netflix-logo-marca.jpg");
     background-repeat:no-repeat;
     background-size:cover;
 }
-.imagem-principal{
+.container__imagem{
     width: 120px;
 }
 .container{
