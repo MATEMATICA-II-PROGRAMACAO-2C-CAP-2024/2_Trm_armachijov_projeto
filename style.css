@@ -8,6 +8,7 @@
 }
 body{
    background-color: var(--cor-de-fundo);
+   background: linear-gradient(to right 0, 0, 0, 0.35);
    color: var(--branco-principal);
    font-family: var(--font-principal);
    font-size: 16px;
