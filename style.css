@@ -21,6 +21,7 @@ body{
     background-image:url("./img/Print-Netflix-logo-marca.jpg");
     background-repeat:no-repeat;
     background-size:cover;
+    align-items: center;
 }
 
 .container{
