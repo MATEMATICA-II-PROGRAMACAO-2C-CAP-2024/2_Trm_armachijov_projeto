@@ -23,8 +23,6 @@ body{
     background-size:cover;
     align-items: center;
     text-align: center;
-    background-size: contain;
-    align-items: center;
 }
 
 .container{
