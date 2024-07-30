@@ -93,3 +93,10 @@ body{
     color: var(--branco-principal);
     align-items: center;
 }
+.container_dispositivos{
+    display: flex;
+}
+
+.container__dispositivos_2{
+    display: center;
+}
