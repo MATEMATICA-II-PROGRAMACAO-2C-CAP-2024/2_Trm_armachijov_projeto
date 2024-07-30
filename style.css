@@ -87,3 +87,9 @@ body{
 .container__texto{
     color: var(--cinza-secundario);
 }
+
+.container_disp{
+    font-family: 'Montserrat', sans-serif;
+    color: var(--branco-principal);
+    align-items: center;
+}
