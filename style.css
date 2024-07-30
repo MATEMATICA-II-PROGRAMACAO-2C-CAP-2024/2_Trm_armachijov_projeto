@@ -91,7 +91,7 @@ body{
 .container_disp{
     font-family: 'Montserrat', sans-serif;
     color: var(--branco-principal);
-    align-items: center;
+    display: center;
 }
 .container_dispositivos{
     display: flex;
@@ -100,4 +100,10 @@ body{
 .container__dispositivos_2{
     display: center;
     width: 120px;
+}
+
+.container_informacoes{
+    font-family: 'Montserrat', sans-serif;
+    color: var(--branco-principal);
+    display: center;
 }
